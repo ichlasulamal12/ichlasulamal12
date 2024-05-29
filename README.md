@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/ichlasul](https://linktr.ee/ichlasul)
 
-- 📝 I regularly write articles on [https://rpubs.com/ichlasulamal12](https://rpubs.com/ichlasulamal12)
+- 📝 I regularly write articles on [rpubs](https://rpubs.com/ichlasulamal12)
 
 - 💬 Ask me about **r, python, lookerstudio**
 

@@ -21,6 +21,6 @@
 <br />
 <h3 align="left">Languages and Tools:</h3>
 
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="30px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="padding-right:10px;" />
+<a align="left" href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img alt="r" width="30px" src="https://icon-icons.com/icons2/1381/PNG/512/rstudio_94807.png" style="padding-right:10px;" /> </a>
+<a align="left" href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img alt="pandas" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="padding-right:10px;" /> </a>
+<a align="left" href="https://www.python.org" target="_blank" rel="noreferrer"><img alt="python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" /> </a>

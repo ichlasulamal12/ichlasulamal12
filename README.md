@@ -20,7 +20,5 @@
 <br />
 <br />
 <h3 align="left">Languages and Tools:</h3>
-
-<a align="left" href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img alt="r" width="30px" src="https://icon-icons.com/icons2/1381/PNG/512/rstudio_94807.png" style="padding-right:10px;" /> </a>
-<a align="left" href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img alt="pandas" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="padding-right:10px;" /> </a>
-<a align="left" href="https://www.python.org" target="_blank" rel="noreferrer"><img alt="python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" /> </a>
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />]["https://www.python.org"]
+[<img align="left" alt="R" width="30px" src="https://cdn.icon-icons.com/icons2/277/PNG/512/RStudio_30177.png" style="padding-right:10px;" />][https://www.r-project.org/]

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ichlasul Amal</h1>
 <h3 align="center">A passionate data analytics | Empowering Ideas through Code</h3>
 
-- 👨‍💻 All of my projects are available at [linktr.ee/ichlasul](linktr.ee/ichlasul)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/ichlasul](https://linktr.ee/ichlasul)
 
 - 📝 I regularly write articles on [https://rpubs.com/ichlasulamal12](https://rpubs.com/ichlasulamal12)
 

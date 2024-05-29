@@ -15,19 +15,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.r-project.org/" target="blank" rel="noreferrer"> <img src="https://icon-icons.com/icons2/1381/PNG/512/rstudio_94807.png" alt="r" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a><a href="https://seaborn.pydata.org/" target="blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a><a href="https://www.tensorflow.org" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-[<img align="left" alt="R" width="40" height="40" src="https://icon-icons.com/icons2/1381/PNG/512/rstudio_94807.png" style="padding-right:10px;" />][r]
-[<img align="left" alt="R" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="padding-right:10px;" />][pandas]
-[<img align="left" alt="R" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />][python]
-[<img align="left" alt="R" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:10px;" />][scikit_learn]
-[<img align="left" alt="R" width="40" height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="padding-right:10px;" />][seaborn]
-[<img align="left" alt="R" width="40" height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="padding-right:10px;" />][tensorflow]
-
-[r]: https://www.r-project.org/
-[pandas]: https://pandas.pydata.org/
-[python]: https://www.python.org
-[scikit_learn]: https://scikit-learn.org/
-[seaborn]: https://seaborn.pydata.org/
-[tensorflow]: https://www.tensorflow.org
+<style>
+a img {
+    text-decoration: none;
+    border: none; /* Menghapus border di sekitar gambar */
+}
+</style>
+<p align="left"> <a href="https://www.r-project.org/" target="blank" rel="noreferrer"> <img src="https://icon-icons.com/icons2/1381/PNG/512/rstudio_94807.png" alt="r" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>

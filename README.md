@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ichlasul Amal</h1>
+<h1 align="center">Hi, I am Ichlasul Amal</h1>
 <h3 align="center">A passionate data analytics | Empowering Ideas through Code</h3>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/ichlasul](https://linktr.ee/ichlasul)
 
 - 📝 I regularly write articles on [rpubs](https://rpubs.com/ichlasulamal12)
 
-- 💬 Ask me about **r, python, lookerstudio**
+- 💬 Ask me about **r, python, lookerstudio, SQL**
 
 - 📫 How to reach me **akuaamamal@gmail.com**
 

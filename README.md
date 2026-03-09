@@ -22,4 +22,5 @@
 <a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="40" width="40"/></a>
 <a href="https://seaborn.pydata.org/" target="blank"><img align="center" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="40" width="40"/></a>
 <a href="https://www.tensorflow.org" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="40" width="40"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="sql server" height="40" width="40"/></a>
 </p>
